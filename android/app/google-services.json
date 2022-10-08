@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648634245308",
+    "project_id": "instagram-clone-bee54",
+    "storage_bucket": "instagram-clone-bee54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648634245308:android:a9446ae297e79d0aa070b9",
+        "android_client_info": {
+          "package_name": "com.ruvima.instagram_clone_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648634245308-2552ahigp008jts7b7cr52f7lt01fojv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI3qllwWkEm3WfYEwFzuAbJ4XHgqkTboU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648634245308-2552ahigp008jts7b7cr52f7lt01fojv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
