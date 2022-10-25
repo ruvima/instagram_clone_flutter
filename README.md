@@ -1,16 +1,34 @@
 # instagram_clone_flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ <img src="https://i.imgur.com/alQ3cOj.png" 
+     width="300" 
+     height="616" /> <img src="https://i.imgur.com/oxfHVf3.png" 
+     width="300" 
+     height="616" /> 
+     <img src="https://i.imgur.com/CQ7Qhpi.png" 
+     width="300" 
+     height="616" /> 
+        <img src="https://i.imgur.com/P5eOm79.png" 
+     width="300" 
+     height="616" /> 
+        <img src="https://i.imgur.com/OdDO3cY.png" 
+     width="300" 
+     height="616" /> 
+        <img src="https://i.imgur.com/IbA5FZU.png" 
+     width="300" 
+     height="616" />           
+           <img src="https://i.imgur.com/16ytGW0.png" 
+     width="300" 
+     height="616" /> 
+           <img src="https://i.imgur.com/SPb00qa.png" 
+     width="300" 
+     height="616" /> 
+       <img src="https://i.imgur.com/w5m90je.png" 
+     width="300" 
+     height="616" /> 
+        <img src="https://i.imgur.com/roPPIfM.png" 
+     width="645" 
+     height="361" /> 
+        <img src="https://i.imgur.com/ujQbYZD.png" 
+     width="645" 
+     height="361" /> 
